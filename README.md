@@ -10,3 +10,8 @@ look [here](https://github.com/DavHau/nix-on-armv7l) for a similar project
 3. [configuration for NixOS for the rpi4](https://nix.dev/tutorials/installing-nixos-on-a-raspberry-pi)
 4. [ssh for rpi4 on nix](https://rbf.dev/blog/2020/05/custom-nixos-build-for-raspberry-pis/)
 5. [rpi 0 NixOs](https://discourse.nixos.org/t/how-to-install-nix-package-manager-on-raspbian/2035/6) 
+
+
+
+## Official guide
+1. [NixOs on arm](https://github.com/illegalprime/nixos-on-arm/blob/master/README.md#raspberry-pi-2)
